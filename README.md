@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+<!--
+TODO: at some point self-host? Is it open source in the first place?
+
 [![Genki's GitHub stats](https://github-readme-stats.vercel.app/api?username=giprayogo&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giprayogo&langs_count=20&layout=pie&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **giprayogo/giprayogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
